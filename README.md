@@ -16,11 +16,11 @@
 
 
 # 📊 GitHub Stats:
-<center>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=DocteurMoriarty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DocteurMoriarty&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DocteurMoriarty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</center>
+<div/>
 ---
 [![](https://visitcount.itsvg.in/api?id=DocteurMoriarty&icon=0&color=0)](https://visitcount.itsvg.in)
 
