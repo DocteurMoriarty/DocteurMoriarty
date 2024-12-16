@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Lovace**
+- 🔭 I’m currently working on **Unleashi**
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Lovace**
+- 👯 I’m looking to collaborate on **Unleashi**
 
 
 
