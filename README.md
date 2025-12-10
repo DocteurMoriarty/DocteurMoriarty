@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DocteurMoriarty</h1>
-<h3 align="center">I'm from French</h3>
+<h3 align="center">I'm from France</h3>
 
 # 💫 About Me:
 
