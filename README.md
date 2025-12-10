@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Unleashi**
+- 🔭 I’m currently working on **Zenth Project**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Rust/C/C++**
 
-- 👯 I’m looking to collaborate on **Unleashi**
+- 👯 I’m looking to collaborate on **Zenth Project**
 
 
 
